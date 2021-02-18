@@ -1,1 +1,1 @@
-<h1> Hello, This is BiaTek DevOps & Cloud Consulting Services !! </h1>
+<h1> Hello, Welcome to AfroTek DevOps & Cloud Consulting Services !! </h1>
